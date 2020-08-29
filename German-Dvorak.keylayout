@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.233 on 2018-12-12 at 10:21 (CET)-->
-<keyboard group="126" id="-18193" name="Deutsch - Dvorak" maxout="1">
+<!--Last edited by Ukelele version 3.4.2.314 on 2020-03-25 at 16:21 (CET)-->
+<keyboard group="126" id="-20966" name="Deutsch - Dvorak" maxout="1">
     <layouts>
         <layout first="0" last="4" mapSet="ANSI" modifiers="commonModifiers"/>
         <layout first="5" last="5" mapSet="JIS" modifiers="commonModifiers"/>
@@ -100,7 +100,7 @@
             <key code="30" output="&#x003C;"/>
             <key code="31" output="r"/>
             <key code="32" output="g"/>
-            <key code="33" output="&#x0027;"/>
+            <key code="33" output="#"/>
             <key code="34" output="c"/>
             <key code="35" output="l"/>
             <key code="36" output="&#x000D;"/>
@@ -219,7 +219,7 @@
             <key code="30" output="&#x003E;"/>
             <key code="31" output="R"/>
             <key code="32" output="G"/>
-            <key code="33" output="#"/>
+            <key code="33" output="&#x0027;"/>
             <key code="34" output="C"/>
             <key code="35" output="L"/>
             <key code="36" output="&#x000D;"/>
