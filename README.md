@@ -2,6 +2,8 @@
 
 'German - Dvorak' is a German Dvorak keyboard layout for Mac OS X.
 
+It was changed to a "different" set of keys to my personal flavor :-) 
+
 See [wiki](http://github.com/sos4nt/German-Dvorak/wiki) for details.
 
 ## Install
