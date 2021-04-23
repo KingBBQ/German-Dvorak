@@ -21,3 +21,7 @@ and select 'Deutsch - Dvorak'.
 ## About
 
 The keylayout file is based on the German system layout that comes with [Ukulele](http://scripts.sil.org/ukelele).
+
+# Linux
+
+See: https://unix.stackexchange.com/questions/335672/how-to-add-additional-keyboard-layouts-in-manjaro
