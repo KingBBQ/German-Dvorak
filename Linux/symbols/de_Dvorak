@@ -1,0 +1,50 @@
+/////////////////////////////////////////////////////////////////////////////////
+//
+// Generated keyboard layout file with the Keyboard Layout Editor.
+// For more about the software, see http://code.google.com/p/keyboardlayouteditor
+//
+
+xkb_symbols "dvorak"
+{
+	name[Group1] = "Gregor Dorak";
+	include "level3(ralt_switch)"
+	include "us(dvorak)"
+	key <AB01> { [     odiaeresis,     Odiaeresis                                 ] }; // ö Ö 
+	key <AB02> { [              q,              Q,             at                 ] }; // q Q @ 
+	key <AB07> { [              m,              M,             mu                 ] }; // m M µ 
+	key <AB10> { [              z,              Z                                 ] }; // # ' 
+	key <AC01> { [              a,              A,             at,        aogonek ] }; // a A @ ą 
+	key <AC02> { [              o,              O,         oacute,         Oacute ] }; // o O ó Ó 
+	key <AC03> { [              e,              E,       EuroSign,        eogonek ] }; // e E € ę 
+	key <AC04> { [              u,              U                                 ] }; // u U 
+	key <AC05> { [              i,              I                                 ] }; // i I 
+	key <AC06> { [              d,              D                                 ] }; // d D 
+	key <AC07> { [              h,              H                                 ] }; // h H 
+	key <AC08> { [              t,              T,     registered                 ] }; // t T ® 
+	key <AC09> { [              n,              N,         nacute,         Nacute ] }; // n N ń Ń 
+	key <AC10> { [              s,              S,         sacute,         Sacute ] }; // s S ś Ś 
+	key <AC11> { [       question,         ssharp,        lstroke,        Lstroke ] }; // ? L ł Ł 
+	key <AD01> { [     udiaeresis,     Udiaeresis,             at                 ] }; // ü  @ 
+	key <AD02> { [          comma,      semicolon, dead_diaeresis                 ] }; // , ; D¨ 
+	key <AD03> { [         period,          colon                                 ] }; // . : 
+	key <AD08> { [              c,              C,      copyright,         Cacute ] }; // c C © Ć 
+	key <AD09> { [              r,              R,      trademark                 ] }; // r R ™ 
+	key <AD10> { [              l,              L,      zabovedot,      Zabovedot ] }; // l L ż Ż 
+	key <AD11> { [              numbersign,     apostrophe              ] }; // ä Ä 
+	key <BKSL> { [          minus,     underscore,         hyphen,      diaeresis ] }; // - _ ­ ¨ 
+    key <AE01> { [ 1, exclam, onesuperior ] };
+    key <AE02> { [ 2, quotedbl, twosuperior ] };
+    key <AE03> { [ 3, section, threesuperior ] };
+    key <AE04> { [ 4, dollar, bar ] };
+    key <AE05> { [ 5, percent, bar ] };
+    key <AE06> { [ 6, ampersand, brokenbar ] };
+    key <AE07> { [ 7, slash, braceleft ] };
+    key <AE08> { [ 8, parenleft, bracketleft ] };
+    key <AE09> { [ 9, parenright, bracketright ] };
+    key <AE10> { [ 0, equal, braceright ] };
+	key <AE11> { [           plus,       asterisk,     asciitilde                 ] }; // + * ~ 
+	key <AE12> { [           slash,        backslash,     dead_grave                 ] }; // < > D` 
+	key <AD12> { [           less,        greater,     dead_grave                 ] }; // < > D` 
+	key <LSGT> { [     adiaeresis,     Adiaeresis,            bar                 ] }; // ä Ä | 
+	key <TLDE> { [    at,                  degree                                 ] }; // ^ ° 
+};
